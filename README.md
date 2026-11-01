@@ -30,6 +30,8 @@ YouTube channels I value.
 | [Jacob Geller](https://www.youtube.com/@JacobGeller)                   | Philosophy    |
 | [EconplusDal](https://www.youtube.com/@econplusdal)                    | Economics     |
 | [Warographics](https://www.youtube.com/@warographics643)               | Geopolitics   |
-| [Bravos Research](https://www.youtube.com/@bravosresearch)             | Trading       |
 | [candyshowroom](https://www.youtube.com/@CandyShowroom)                | Cars          |
 | [Speeed](https://www.youtube.com/@SpeeedCo)                            | Cars          |
+| [Bravos Research](https://www.youtube.com/@bravosresearch)             | Trading       |
+| [Jane Street](https://www.youtube.com/@janestreet)                     | Trading       |
+| [Sequoia](https://www.youtube.com/@sequoiacapital)                      | Trading       |
